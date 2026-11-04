@@ -91,6 +91,4 @@ This project demonstrates how a broad county-level environmental dataset can be 
 Author
 Mohit Dutta
 People Analytics | Data & Business Analytics | Databricks | SQL | Power BI | Microsoft Fabric
-- LinkedIn: [Add your LinkedIn profile]
-- GitHub: [Add your GitHub profile]
-Built as a hands-on Databricks analytics project. Dataset-level calculations in this README are based on the CSV included with the project; dashboard descriptions are based on the supplied dashboard screenshot.
+- LinkedIn: (https://www.linkedin.com/in/dmohit1/)
